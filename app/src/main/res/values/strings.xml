@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gamePrompt">Guess a four letter word in three tries!\n</string>
+</resources>
